@@ -1,0 +1,31 @@
+body {font-family: 'Karma', serif;
+  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Outfit', sans-serif;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.improve {color:  hsl(218, 44%, 22%);
+max-width: 300px;
+text-align: center;
+margin: 20px auto;}
+
+.scan {color: #aaabae;
+  max-width: 300px;
+  text-align: center;
+  margin: 20px auto;
+font-size: 17px;}
+
+.contornowhite {
+  background-color: white;
+  width: 380px;
+  height: 550px;
+  border-radius: 10px;
+  margin: 40px auto;
+}
+
+.img {
+  width: 320px;
+  border-radius: 10px;
+  margin: 30px 0 0 30px;
+
+}
